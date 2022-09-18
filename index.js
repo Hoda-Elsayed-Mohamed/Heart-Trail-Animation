@@ -13,6 +13,4 @@ window.addEventListener("mousemove", (e)=>{
  setTimeout(() => {
     spanEl.remove();
  }, 3000);
-
-    console.log(spanEl)
 })
